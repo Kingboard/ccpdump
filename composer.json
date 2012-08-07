@@ -1,10 +1,10 @@
 {
     "name": "kingboard/ccpdump",
-    "description": "Mongo Variant of CCP's static data dump",
+    "description": "MongoDB Variant of CCP's static data dump",
     "authors": [
         {
             "name": "Beansman",
-            "email": "Beans@please.fix"
+            "email": "niels+kingboard@nsbit.dk"
         }
     ],
     "require": {
